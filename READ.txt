@@ -1,0 +1,5 @@
+Explanation of application start:
+	- Run backend application with 'java -jar renthing-0.0.1-SNAPSHOT.jar' command
+ 	- Run frontend application by first extracting 'renting-ui-app.zip' and then 'cd renting-ui-app', then 'npm install' and 'npm start' commands
+ 	- Open 'http://localhost:4100/' in your browser to see the UI
+ 	- Open 'http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/' in your browser to see api of the backend application
